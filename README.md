@@ -1,15 +1,15 @@
-- Structure
+- Intellectual growth:
+After completing this dissertation I found that the interdisciplinary approach allowed me to calculate Nash equilibrium solutions and results for various games much faster, which saved me a lot of time and allowed me to use more complex game models.
 
-In the first question, I first looked at a competition for market share game, in which two companies can choose between markup and maintaining the original price. The payoff comes from combining the decisions of both men. However, I think Nashpy's analysis is wrong because he thinks both men should have chosen to raise prices. In this strategy, first of all, neither of them can achieve the maximum return, and second, both of them have to face the risk that their opponent chooses to maintain the original price while their return is zero. I think the Nash equilibrium in this case should be a pure strategy equilibrium, where they both choose to keep the original price.
+When I used the computer science approach to economics, I found that Nash equilibrium has serious problems in analyzing real-world conflicts, such as the waste of resources and the pointless internal consumption of governments. If we could focus a little less on rational economic man theory and single round games, we would find that we actually have better equilibrium solutions, such as the grass field equilibrium proposed in this paper.
 
-In this strategy, both people get the maximum benefit of 4. If your opponent betrays your cooperation, your gain becomes 6. Take no risk in either case.
+The interdisciplinary approach opens our eyes and allows us to look at our research with an outsider's perspective.
+-Professional growth:
+In the process of my research, I enhanced my skills in using SPNE and other economics-related software and studied Nash equilibrium in more depth. At the same time, I also studied some theories in computer science and social science and put them into practice in problem solving and thinking.
 
-In the second question, I chose the ultimatum game, in which the first player proposes a distribution strategy, and the second player can choose to accept it or not. If the second player chooses not to accept this strategy, then both players get 0. If the second player chooses to accept this strategy, the distribution will be based on the first player's strategy, no matter how unreasonable the first player's strategy is.
-
-SPNE's solution is that the second player chooses to accept the offer no matter what. However, I used the ultimatum game in my homework to point out that in practice, 60 percent of players will choose not to accept an unfair distribution, even if it means they will not receive any money.
-
-Both examples demonstrate the limitations of Nash equilibrium. In the Nash equilibrium, we assume that all the actors are perfectly rational and that they want to maximize the benefits. In reality, however, human rationality is limited. At the same time, we can't rule out that some players will choose to act irrationally out of a simple sense of revenge.
-
+In the process, I discovered some gaps in theories and was able to propose new solutions using an interdisciplinary approach.
+- Living a purposeful life:
+I hope to come up with more economic theories that meet realistic needs using an interdisciplinary approach and computer-based tools. For example, the meadow equilibrium that appears in this paper. If I win the Nobel Prize one day, I would hope that other people studying economics would not be overly obsessed with the conditions set in Nash equilibrium as I am, otherwise innovation is difficult. In the future I hope to try some challenges to other theories, I think no theory is perfect.
 ### More about the Author
 - headshot
 ![4b751e90a13170130f111a66559d5af](https://user-images.githubusercontent.com/124484841/230754135-b3fa32be-518b-40e8-83b3-aaff65028b30.jpg)
