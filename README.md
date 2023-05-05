@@ -4,7 +4,7 @@ After completing this dissertation I found that the interdisciplinary approach a
 When I used the computer science approach to economics, I found that Nash equilibrium has serious problems in analyzing real-world conflicts, such as the waste of resources and the pointless internal consumption of governments. If we could focus a little less on rational economic man theory and single round games, we would find that we actually have better equilibrium solutions, such as the grass field equilibrium proposed in this paper.
 
 The interdisciplinary approach opens our eyes and allows us to look at our research with an outsider's perspective.
--Professional growth:
+- Professional growth:
 In the process of my research, I enhanced my skills in using SPNE and other economics-related software and studied Nash equilibrium in more depth. At the same time, I also studied some theories in computer science and social science and put them into practice in problem solving and thinking.
 
 In the process, I discovered some gaps in theories and was able to propose new solutions using an interdisciplinary approach.
